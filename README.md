@@ -482,13 +482,13 @@ DIVIDE(
 
 A primeira página do dashboard contém, como o nome diz, a análise de desempenho logístico por transportadora.
 
-![Uploading image_1749407589641_0.png…]()
+![image_1749407448900_0](https://github.com/user-attachments/assets/514af497-f393-4aeb-8019-863f3710b13e)
 
 
 Podemos, com ela, responder as cinco perguntas que definimos no começo do projeto, e além disso, fazer uma análise de desempenho não só por transportadora, como também por mês. As caixas seletoras abaixo servem como filtros adicionais.
 
 Já a segunda página contém uma análise do desempenho logístico por clientes e setor.
 
-![Uploading image_1749407676974_0.png…]()
+![image_1749407676974_0](https://github.com/user-attachments/assets/e2554f6a-502d-4038-817d-4ade95faf545)
 
 Podemos, com ela, responder múltiplas perguntas sobre clientes e diferentes setores da economia.
