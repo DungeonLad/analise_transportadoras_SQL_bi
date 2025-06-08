@@ -1,3 +1,6 @@
+
+![image_1749407589641_0](https://github.com/user-attachments/assets/9b803d13-e5be-4ebf-a111-d65f3b9491b3)
+
 # Introdução e Resumo
 
   Quis fazer um projeto que tivesse conexão com a área de logística e transportes. Para esse projeto, quis algo que tivesse conexão direta com logística e transportes. Meu objetivo é pôr em prática meu SQL num projeto mais ou menos real, visto que até então só aprendi a teoria, fiz as práticas do livro Introdução a Linguagem SQL do Thomas Nield e do curso Coursera Google Data Analytics, e brinquei um pouco no SQLzoo. Outro objetivo é usar o Power Bi para criar visualizações de forma independente, já que, anteriormente, só o utilizei para exercícios de um curso.
